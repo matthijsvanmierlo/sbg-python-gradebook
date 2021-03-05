@@ -1,6 +1,6 @@
 # Standards Based Gradebook - Python Terminal
 
-## Introduction
+![Gradebook Screenshot](/images/sbg-gradebook.png)
 
 ### Setup
 
